@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/action_favorite"
+        android:title="喜欢"
+        android:icon="@mipmap/ic_favorite_white"
+        app:showAsAction="always"/>
+
+    <item android:id="@+id/action_share"
+        android:title="分享"
+        android:icon="@mipmap/ic_share_white"
+        app:showAsAction="always"/>
+
+
+
+    <!--<item android:id="@+id/action_comment"-->
+        <!--android:title="评论"-->
+        <!--android:icon="@mipmap/ic_comment_white"-->
+        <!--app:showAsAction="always"/>-->
+
+    <!--<item android:id="@+id/action_thumb_up"-->
+        <!--android:title="喜欢"-->
+        <!--android:icon="@mipmap/ic_thumb_up_white"-->
+        <!--app:showAsAction="always"/>-->
+
+</menu>
