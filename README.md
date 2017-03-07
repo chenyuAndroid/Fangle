@@ -7,3 +7,6 @@
 遵从Material Design规范。除此之外，笔者还使用到了自己写的另外一个库BannerViewPager，实现顶部的轮播图。
 
 具体可以查下以下的图片：
+
+![pic01](https://github.com/chenyuAndroid/Fangle/blob/master/Fangle/pic/pic01.png)
+![pic02](https://github.com/chenyuAndroid/Fangle/blob/master/Fangle/pic/pic02.png)
